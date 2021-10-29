@@ -7,7 +7,7 @@
 # the divisibility
 # of the number by
 # its digit.
-def checkDivisibility(n, digit) :
+def checkDivisibility(n, digit):
      
     # If the digit divides the
     # number then return true
