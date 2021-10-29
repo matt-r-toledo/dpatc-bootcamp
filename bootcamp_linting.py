@@ -21,7 +21,7 @@ def allDigitsDivide(n):
      
     temp = n
     while (temp > 0) :
-         
+         jlwecwlwkflqD;LN
         # Taking the digit of
         # the number into digit
         # var.
